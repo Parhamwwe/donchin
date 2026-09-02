@@ -21,7 +21,7 @@ import numpy as np
 # ══════════════════════════════════════════════════════════════
 # تنظیمات قابل تغییر — این بخش رو با نمادها/تایم‌فریم‌های خودتون عوض کنید
 # ══════════════════════════════════════════════════════════════
-SYMBOLS = ["BTCUSDT", "ETHUSDT", "SOLUSDT"]   # نمادهای بایننس (بدون اسلش)
+SYMBOLS = ["BTCUSDT", "SOLUSDT", "MIRAUSDT", "PAXGUSDT", "ENAUSDT", "ZECUSDT", "ADAUSDT", "AGLDUSDT", "DOTUSDT", "XRPUSDT", "TRXUSDT", "KAVAUSDT"]   # نمادهای بایننس (بدون اسلش)
 TIMEFRAMES = ["1h", "4h"]                      # تایم‌فریم‌های بایننس: 1h, 4h, 15m, ...
 
 # پارامترهای استراتژی (دقیقاً مطابق نسخه‌ی Pine Script)
